@@ -16,9 +16,7 @@ class App extends React.Component {
       params: {
         q: term,
       },
-    }).then((response) => console.log(response))
-    .catch((error) => console.log(error));
-
+    }).catch((error) => { console.log(error)})
     this.setState({
       videos: response.data.items,
       selectedVideo: response.data.items[0],
