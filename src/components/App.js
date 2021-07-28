@@ -16,7 +16,8 @@ class App extends React.Component {
       params: {
         q: term,
       },
-    });
+    }).then((response) => console.log(response))
+    .catch((error) => console.log(error));
 
     this.setState({
       videos: response.data.items,
