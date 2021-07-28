@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/mock-youtube/static/css/main.ef31b886.chunk.css",
-    "main.js": "/mock-youtube/static/js/main.75cad14f.chunk.js",
-    "main.js.map": "/mock-youtube/static/js/main.75cad14f.chunk.js.map",
+    "main.js": "/mock-youtube/static/js/main.c3335e67.chunk.js",
+    "main.js.map": "/mock-youtube/static/js/main.c3335e67.chunk.js.map",
     "runtime-main.js": "/mock-youtube/static/js/runtime-main.17b40721.js",
     "runtime-main.js.map": "/mock-youtube/static/js/runtime-main.17b40721.js.map",
     "static/js/2.d63dde9e.chunk.js": "/mock-youtube/static/js/2.d63dde9e.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.17b40721.js",
     "static/js/2.d63dde9e.chunk.js",
     "static/css/main.ef31b886.chunk.css",
-    "static/js/main.75cad14f.chunk.js"
+    "static/js/main.c3335e67.chunk.js"
   ]
 }
